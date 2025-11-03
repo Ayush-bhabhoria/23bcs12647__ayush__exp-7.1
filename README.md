@@ -9,5 +9,4 @@ Displayed product cards (Laptop, Mouse, Keyboard) fetched from Express API and r
 
 <img width="872" height="285" alt="Screenshot 2025-10-31 100158" src="https://github.com/user-attachments/assets/892dbf47-22ce-4ff1-87b6-56cc98ad6ac4" />
 
-👨‍💻 Made by:
-Harsh Bhardwaj
+
